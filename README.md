@@ -1,0 +1,1 @@
+This repository consists of my sample work, the short projects that I have done, I have worked predominantly on Jupyter notebooks using python and associated data science libraries. Each notebook has the description of the data analysis done in the suitable markdown cells. you'll get the idea about everything once you go through the entire notebook.
